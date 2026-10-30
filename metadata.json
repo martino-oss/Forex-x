@@ -1,0 +1,6 @@
+{
+  "name": "ForexPulse Terminal - Macro & Forex Dashboard",
+  "description": "Panel de control profesional para traders de Forex con calendario económico estilo Forex Factory, niveles clave de bancos centrales y agregador macroeconómico global.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
